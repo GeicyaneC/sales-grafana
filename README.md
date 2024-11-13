@@ -31,3 +31,6 @@ As informações fictícias foram organizadas em quatro tabelas principais:
    - Campos: `store_id`, `store_name`, etc.
 
 Essas tabelas foram relacionadas por meio de `joins` para realizar análises mais avançadas, como vendas por estado, marcas mais vendidas, dias com mais visitas ao site e lojas com maior volume de vendas.
+
+![dashboard-sales](https://github.com/user-attachments/assets/46d37579-3dc5-4aae-b56c-829519addbdb)
+
